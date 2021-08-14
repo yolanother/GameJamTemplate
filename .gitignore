@@ -98,3 +98,7 @@ Assets/*
 !Assets/_Project
 !Assets/_Terrain*
 Bin
+
+Packages
+ProjectSettings
+UserSettings
